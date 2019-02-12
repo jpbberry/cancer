@@ -1,0 +1,25 @@
+{
+  "name": "cancer",
+  "version": "1.0.0",
+  "description": "Literally cancer...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbberry/cancer.git"
+  },
+  "keywords": [
+    "cancer"
+  ],
+  "dependenices": {
+	"colors": "^1.3.3"
+  },
+  "author": "JPBBerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbberry/cancer/issues"
+  },
+  "homepage": "https://github.com/jpbberry/cancer#readme"
+}
